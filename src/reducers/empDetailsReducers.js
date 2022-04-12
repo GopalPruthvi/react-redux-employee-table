@@ -4,7 +4,7 @@ const initialData = {
             id: 1,
             name: "Pruthvi",
             empid: 100,
-            designation: "Software Engineer",
+            designation: "SoftwareEngineer",
             manager: "Abhimanyu",
             exp: 3,
             address: "Chikkballapur",
